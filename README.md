@@ -9,7 +9,7 @@ hashing mechanism which further helps to protect the file from being tempered or
 on Blockchain is very expensive both in terms of time and money. So, the solution to this is a combination 
 of an Interplanetary File System (IPFS) and Ethereum blockchain to store users’ data in a distributed manner. 
 Distributed user data storage is one of the benefits of the IPFS network. In addition, the document that the 
-user must upload is encrypted using SHA-256. For the benefit of all users using our system, the hash that the 
+user must upload is encrypted using SHA 256. For the benefit of all users using our system, the hash that the 
 IPFS network returned will be kept in the Ethereum blockchain network. Storage system using IPFS, SHA256 for 
 encryption, and blockchain technologies together to ensure decentralized, secure, and transparent characteristics 
 for storing and sharing data.
